@@ -1,4 +1,4 @@
-# Reconhecimento Facil OpenCV
+# Reconhecimento Facil OpenCV 👤🔍💻
 
 Projeto de reconhecimento facil com OpenCV - após treinamento das faces pelo algoritmo será capaz de fazer a detecção por frame
 
@@ -60,7 +60,7 @@ python reconhecedor_eigenfaces.py || python reconhecedor_fisherfaces.py || pytho
 * [Numpy](https://numpy.org/) - Numpy
 * [Python](https://www.python.org/) - Python
 
-## Programador
+## Programador👨‍💻
 
 * **Kauan**
 * **instagram:@kauan_2.04**
